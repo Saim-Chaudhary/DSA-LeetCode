@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
