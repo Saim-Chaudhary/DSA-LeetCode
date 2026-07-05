@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
