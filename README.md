@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Saim-Chaudhary/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
